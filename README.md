@@ -17,4 +17,4 @@ O projeto foca-se na extração de parâmetros termo-ópticos a partir de sinais
 - **SciPy:** Optimização e ajuste de modelos não lineares.
 
 ## 📈 Resultados
-Os scripts permitem uma redução drástica no tempo de análise, garantindo precisão estatística na caracterização de nanofluidos e materiais bidimensionais (como Óxido de Grafeno).
+Os scripts permitem uma redução drástica no tempo de análise, garantindo precisão estatística na caracterização de nanofluidos e materiais bidimensionais.
